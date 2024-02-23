@@ -340,12 +340,24 @@ footer p {
  }
  .git-button,
  .live-button{
-  color: #a465f0;
+  color: black;
   border: 2px solid red;
-  background-color: #26262633;
+  background-color: red;
   padding: 10px 10px;
   cursor: pointer;
+  border-radius: 5px;
+text-decoration: none;
  }
+
+
+ .git-button:hover,
+ .live-button:hover{
+  background-color: rgb(14, 27, 168);
+  color: aliceblue;
+ }
+
+
+
   .card {
     min-width: 300px;
     width: 100%;

@@ -1,7 +1,6 @@
 
 **Portfolio**
-"C:\Users\filiz\Pictures\Screenshots\Screenshot 2024-02-26 193357.png"
-
+![alt text](<Screenshot 2024-02-26 193357.png>)
 *The Community Science Museum offers an interactive journey into science for kids 7-15 and their families. Explore vibrant exhibits, engage in hands-on learning, and ignite curiosity. Visit our website for all you need to plan your adventure. Join us to inspire future scientists!*
 
 

@@ -130,7 +130,7 @@ footer h2 {
   justify-content: space-around;
   text-align: center;
   flex-direction: column;
-  width: 95%;
+  max-width: 100%;
 }
 
 .card {
@@ -153,15 +153,16 @@ footer h2 {
 }
 
 .card p {
-  
- 
+  display: flex;
+  justify-content: flex-start;
+  text-align: start
+  ;
   font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 1em; /* Adjust space between paragraphs */
 }
 
-.text-container {
-  width: 70%;
-  margin: 0 auto;
-}
+
 
 /* End of services------------------------ */
 

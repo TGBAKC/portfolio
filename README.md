@@ -1,5 +1,28 @@
 
 **Portfolio**
+
+# Hello, I'm [Tugba AKCA]!
+
+## About Me
+- 🔭 I’m currently working on: [Project Name]
+- 🌱 I’m currently learning: [Technology or Subject]
+- 👯 I’m looking to collaborate on: [Areas]
+- 🤔 I’m looking for help with: [Topics]
+- 💬 Ask me about: [Topics]
+- 📫 How to reach me: [Email address]
+- 😄 Pronouns: [e.g., He/She/They]
+- ⚡ Fun fact: [A fact]
+
+## My GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## Connect with Me
+- [LinkedIn](Your LinkedIn profile URL)
+- [Twitter](Your Twitter profile URL)
+
+
+
+
 ![alt text](<Screenshot 2024-02-26 193357.png>)
 *The Community Science Museum offers an interactive journey into science for kids 7-15 and their families. Explore vibrant exhibits, engage in hands-on learning, and ignite curiosity. Visit our website for all you need to plan your adventure. Join us to inspire future scientists!*
 

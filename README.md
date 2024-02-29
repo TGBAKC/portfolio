@@ -10,8 +10,8 @@
 - 💬 Ask me about: [HTML,CSS,JS]
 - 📫 How to reach me: [filizakca4@gmail.com]
 
-## My GitHub Stats
-![Your Name's GitHub Stats](https://github.com/TGBAKC/portfolio)
+## My GitHub Stat##
+(https://github.com/TGBAKC/portfolio)
 
 ## Connect with Me
 - [E-mail](filizakca4@gmail.com)

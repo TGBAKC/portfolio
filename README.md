@@ -3,10 +3,8 @@
 # Hello, I'm [Tugba AKCA]!
 
 ## About Me
-- 🔭 I’m currently working on: [Portfolio]
-- 🌱 I’m currently learning: [Front-end development]
-- 👯 I’m looking to collaborate on: [Areas]
-- 🤔 I’m looking for help with: [Topics]
+- 🔭 I’m currently working on: [Front-end development]
+- 🌱 I’m currently learning: [javascriptJ]
 - 💬 Ask me about: [HTML,CSS,JS]
 - 📫 How to reach me: [filizakca4@gmail.com]
 

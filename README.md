@@ -1,14 +1,3 @@
-
-
-# Hello, I'm [Tugba AKCA]!
-
-## About Me
-- 🔭 I’m currently working on: [Front-end development]
-- 🌱 I’m currently learning: [javascriptJ]
-- 💬 Ask me about: [HTML,CSS,JS]
-- 📫 How to reach me: [filizakca4@gmail.com]
-
-
 **Portfolio**
 
 ![alt text](<Screenshot 2024-02-26 193357.png>)

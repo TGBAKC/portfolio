@@ -566,6 +566,7 @@ padding: 10px 15px;
 
 /* Dark mode------------------------------- */
 button[class="darkmode"] {
+  
   width: 30px;
   height: 30px;
   cursor: pointer;

@@ -458,17 +458,22 @@ padding: 10px 15px;
   
   /* Footer at 768px ---------------- */
   footer {
+  
     display: flex;
     align-items: center;
   }
 
   footer p {
+    color: #121212;
     max-width: 400px;
     padding-bottom: 2rem;
   }
-
+  .footer__text-container1 p{
+    color:#121212;
+  }
   .phone,
   .email {
+    color: #121212;
     margin-right: 8px;
   }
 
